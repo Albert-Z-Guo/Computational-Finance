@@ -3,7 +3,7 @@
 
 - Constructed Option class hierarchy of American and European calls and puts.
 - Computed Black Scholes and Binomial Tree valuations.
-- Computed Option price sensitivities to the Spot prices (the “Greeks”).
+- Computed Option price sensitivities to the Spot prices (the “[Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))”).
   - Delta: the rate of change of the theoretical option value with respect to changes in the underlying asset's price
   - Vega: sensitivity to volatility
   - Theta: sensitivity of the value of the derivative to the passage of time
